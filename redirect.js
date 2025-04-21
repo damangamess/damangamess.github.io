@@ -1,1 +1,1 @@
-window.location.href = "https://daman-app.net/";
+window.location.href = "https://daman-game.in.net";
